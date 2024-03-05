@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TwkhjwLkyhp+0NPI7SngZBofHx8rt1cK0Za2vvER+QAnYKGp4mZhHUatgUX5ZSo8Jmws+doTpzXzSktUTP5v5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\OneDrive\\Рабочий стол\\кпи\\прога\\2semestr\\laba1\\zad2\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
